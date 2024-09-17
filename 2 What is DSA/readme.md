@@ -43,6 +43,6 @@ Blog Site এ
 ### Why we should care?
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://i.pinimg.com/474x/fd/83/77/fd8377e37174063831d5b45bf516bf90.jpg" alt="First Image" style="width: 45%;" />
-  <img src="https://ibukuntaiwo.wordpress.com/wp-content/uploads/2014/02/img-20130103-00304.jpg" alt="Second Image" style="width: 45%;" />
+  <img src="https://i.pinimg.com/474x/fd/83/77/fd8377e37174063831d5b45bf516bf90.jpg" alt="First Image" style="width: 30%;" />
+  <img src="https://ibukuntaiwo.wordpress.com/wp-content/uploads/2014/02/img-20130103-00304.jpg" alt="Second Image" style="width: 30%;" />
 </div>
